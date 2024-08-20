@@ -1,0 +1,13 @@
+.film-sheet-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.film-sheet-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.film-sheet-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
